@@ -1,9 +1,19 @@
 {
   "name": "envify-loader",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "description": "Envify loader for webpack",
   "main": "index.js",
   "author": "Michael Johnston",
+  "homepage": "https://github.com/mjohnston/envify-loader",
+  "bugs": "https://github.com/mjohnston/envify-loader/issues",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mjohnston/envify-loader"
+  },
+  "keywords": [
+    "webpack",
+    "envify"
+  ],
   "license": "MIT",
   "peerDependencies": {
     "envify": "^1.2.1"
