@@ -5,7 +5,7 @@
   "main": "index.js",
   "author": "Michael Johnston",
   "license": "MIT",
-  "devDependencies": {
+  "peerDependencies": {
     "envify": "^1.2.1"
   }
 }
