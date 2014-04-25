@@ -1,0 +1,11 @@
+{
+  "name": "envify-loader",
+  "version": "1.0.0",
+  "description": "Envify loader for webpack",
+  "main": "index.js",
+  "author": "Michael Johnston",
+  "license": "MIT",
+  "devDependencies": {
+    "envify": "^1.2.1"
+  }
+}
