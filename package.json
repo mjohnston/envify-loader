@@ -16,6 +16,6 @@
   ],
   "license": "MIT",
   "peerDependencies": {
-    "envify": "^1.2.1"
+    "envify": "^3.4.0"
   }
 }
